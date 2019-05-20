@@ -1,0 +1,7 @@
+IMG_NAME=SkyProxy
+APT_PROXY=http://172.17.0.1:3142
+FIRST_USER_NAME=skyproxy
+FIRST_USER_PASS=password
+ENABLE_SSH=1
+DEPLOY_ZIP=0
+STAGE_LIST="stage0 stage1 stage2 stage3 stage-sc"
